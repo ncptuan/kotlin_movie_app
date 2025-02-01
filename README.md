@@ -1,5 +1,9 @@
 Partern: MVVM
+
+
 API: Retrofit, GsonConverterFactory(serialize,deserialize)
+
+
 DI: Hilt
 
 
